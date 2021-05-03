@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**kdetony/kdetony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My Skills and descriptions:
 
 - 🔭 I’m currently working on banking sector
 - 🌱 I’m currently learning docker, kubernetes, OpenShift, Cloud
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
